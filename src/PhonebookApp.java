@@ -1,9 +1,7 @@
-
 public class PhonebookApp {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
-
-	}
+		Engine.run();
+   }
 
 }
